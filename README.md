@@ -5,6 +5,7 @@ gamalpha
 
 # TO DO
 Add scrolling:
+
   Create function to define drawing of objects
   
   clear all canvas once player passes x point
