@@ -13,4 +13,7 @@ Add scrolling:
     Define all objects as x cord - "shiftNum" 
     
     redraw all objects as shifted and player is in same cords
-    
+
+Fix Spikes
+
+Cleanup code
