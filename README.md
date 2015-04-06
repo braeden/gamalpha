@@ -1,7 +1,6 @@
 gamalpha
 ========
 
-none
 
 
 # TO DO
